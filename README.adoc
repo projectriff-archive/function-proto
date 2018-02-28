@@ -1,4 +1,7 @@
-== Function Proto
+
+*The contents of this repository has moved to https://github.com/projectriff/riff/tree/master/function-proto*
+
+= Function Proto
 
 This repository contains https://grpc.io/docs/guides/[gRPC] service definitions used by the riff https://github.com/projectriff/function-sidecar[function-sidecar] to support gRPC streaming between the sidecar and the function.
 
